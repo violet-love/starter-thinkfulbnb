@@ -62,10 +62,13 @@ header {
   font-family: "Pangolin", cursive;
   font-size: 72px;
   color: #fff;
+  text-align: center;
 }
 
 header nav ul li {
   list-style-type: none;
+  display: flex;
+  justify-content: center;
 }
 
 header nav ul li a {
